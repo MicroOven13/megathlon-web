@@ -51,6 +51,13 @@ footer {
     justify-content: space-between;
     border: 2px solid rgb(0, 0, 0);
 }
+.uszasnem {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    justify-content: space-between;
+    border: 2px solid rgb(0, 0, 0);
+    margin-bottom: 20px;
+}
 .szoveg {
     border: 1px solid rgb(65, 63, 63);
     padding: 10px;
