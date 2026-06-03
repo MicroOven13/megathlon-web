@@ -1,0 +1,32 @@
+1. [ HEADER ] (Fejléc szövege)
+Megathlon Úszóklub és Sportközpont
+
+2. [ NAV ] (Menüpontok szövege)
+Főoldal   |   Szolgáltatások   |   Árak   |   Kapcsolat
+
+3. [ SECTION ] (A fő bemutatkozó rész szövege)
+Fejleszd az úszástechnikád a Megathlonnal!
+
+Modern környezetben, tapasztalt edzőkkel és teljesen személyre szabott edzésekkel várunk Budapest szívében. Legyen szó teljesen kezdő szintről vagy profi versenyfelkészülésről, nálunk megtalálod a számításaidat.
+
+[ IDŐPONTFOGLALÁS ] (Ez a gomb szövege)
+
+4. [ ARTICLE ] (A kiemelt cikk/ajánlat szövege)
+Kiemelt ajánlatunk: Felnőtt technikai edzések
+
+Sokan felnőttként szeretnének megtanulni szabályosan úszni, vagy javítani az állóképességükön. Edzőink segítenek a helyes levegővétel, a hatékony láb- és kartempó elsajátításában, akár triatlon versenyre készülsz, akár csak az egészségedért úszol.
+
+5. [ DIV ] (A kiemelt kis információs doboz szövege)
+Figyelem! Az első felmérő próbaóra most minden új jelentkezőnek teljesen ingyenes!
+
+6. [ ASIDE ] (Kiegészítő információk / Oldalsáv szövege)
+Nyitvatartási időnk:
+
+Hétfő - Péntek: 06:00 - 21:00
+
+Szombat - Vasárnap: 08:00 - 18:00
+
+Címünk: 1146 Budapest, Istvánmezei út 1-3.
+
+7. [ FOOTER ] (A lábléc szövege)
+© 2026 Megathlon Iskolai Projekt. Minden jog fenntartva. Készítette: [A Te Neved]
