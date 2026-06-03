@@ -43,3 +43,11 @@ footer {
     color: rgb(255, 255, 255);
     border: 1px solid black;
 }
+img {
+    width: 100%;
+    max-width: 200px;
+}
+.kepek {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
