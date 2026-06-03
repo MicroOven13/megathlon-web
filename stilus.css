@@ -45,16 +45,29 @@ footer {
 }
 .card {
     width: 100%;
-    max-width: 400px;
+    padding: 6px;
 }
 .kepek {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     justify-content: space-between;
-    padding-left: 40px;
     border: 2px solid rgb(0, 0, 0);
 }
 .szoveg {
     border: 1px solid rgb(65, 63, 63);
     padding: 10px;
+}
+@media screen and (max-width:600px) {
+    main {
+        display: grid;
+        grid-template-columns: 1fr;
+    }
+    .kepek {
+        display: grid;
+        grid-template-columns: 1fr;
+        justify-content: space-between;
+    }
+    .card {
+        margin: 10px;
+    }
 }
